@@ -45,7 +45,7 @@ function QuizInfo() {
                 </div>
                 <div className={styles.text}>
                   <p>Created:</p>
-                  <span>{object.createdAt}</span>
+                  <span>{object.created}</span>
                 </div>
               </div>
             ))}
